@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shoib
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me at mshoibkhan@outlook.com
