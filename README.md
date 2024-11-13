@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shoib
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working as a Backend Developer
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently working as a Software Engineer (Robotics)
 - 📫 You can reach me at mshoibkhan@outlook.com
