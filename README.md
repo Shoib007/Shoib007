@@ -21,7 +21,7 @@
 - 🚀 I love creating full-stack web applications and scalable robotic systems.
 - 🎓 Educated 1000+ teachers in coding and robotics.
 - 🏆 Awarded **Trainer of the Year 2023**
-- 🌐 Founder of [FIOSA Institute of Technology](#)
+- 🌐 Founder of [FIOSA Academy](https://www.fiosacademy.com)
 - 💡 Building impactful projects using **Python, JavaScript, Django, React, Docker, AWS, ROS2** and more.
 - 🧠 Passionate about teaching AI, system design, and robotics to young minds.
 
