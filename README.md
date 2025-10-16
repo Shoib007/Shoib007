@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mohd Shoib</h1>
-<h3 align="center">Full-Stack Software Engineer | Robotics Specialist | Tech Educator</h3>
+<h3 align="center">Senior Business Development Associate | Robotics Specialist | Tech Educator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
